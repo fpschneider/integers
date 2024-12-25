@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 Nequ4tion */
+/* Copyright (c) 2019 Fabian Schneider */
 /* See LICENSE for licensing information */
 
 /* This file provides limits for the well defined types that have guaranteed sizes */

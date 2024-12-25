@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 Nequ4tion */
+/* Copyright (c) 2019 Fabian Schneider */
 /* See LICENSE for licensing information */
 
 #include "definite_limits.h"
